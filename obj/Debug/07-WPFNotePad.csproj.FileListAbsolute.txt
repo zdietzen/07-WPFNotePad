@@ -1,0 +1,14 @@
+C:\Dev\Github\07-WPFNotePad\07-WPFNotePad\bin\Debug\07-WPFNotePad.exe.config
+C:\Dev\Github\07-WPFNotePad\07-WPFNotePad\bin\Debug\07-WPFNotePad.exe
+C:\Dev\Github\07-WPFNotePad\07-WPFNotePad\bin\Debug\07-WPFNotePad.pdb
+C:\Dev\Github\07-WPFNotePad\07-WPFNotePad\obj\Debug\07-WPFNotePad.csprojResolveAssemblyReference.cache
+C:\Dev\Github\07-WPFNotePad\07-WPFNotePad\obj\Debug\MainWindow.g.cs
+C:\Dev\Github\07-WPFNotePad\07-WPFNotePad\obj\Debug\App.g.cs
+C:\Dev\Github\07-WPFNotePad\07-WPFNotePad\obj\Debug\07-WPFNotePad_MarkupCompile.cache
+C:\Dev\Github\07-WPFNotePad\07-WPFNotePad\obj\Debug\07-WPFNotePad_MarkupCompile.lref
+C:\Dev\Github\07-WPFNotePad\07-WPFNotePad\obj\Debug\MainWindow.baml
+C:\Dev\Github\07-WPFNotePad\07-WPFNotePad\obj\Debug\07-WPFNotePad.g.resources
+C:\Dev\Github\07-WPFNotePad\07-WPFNotePad\obj\Debug\_07_WPFNotePad.Properties.Resources.resources
+C:\Dev\Github\07-WPFNotePad\07-WPFNotePad\obj\Debug\07-WPFNotePad.csproj.GenerateResource.Cache
+C:\Dev\Github\07-WPFNotePad\07-WPFNotePad\obj\Debug\07-WPFNotePad.exe
+C:\Dev\Github\07-WPFNotePad\07-WPFNotePad\obj\Debug\07-WPFNotePad.pdb
