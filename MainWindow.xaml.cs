@@ -51,6 +51,7 @@ namespace _07_WPFNotePad
         private void MenuItem_Save_Click(object sender, RoutedEventArgs e)
         {
             SaveFileDialog SaveFileDialog1 = new SaveFileDialog();
+            SaveFileDialog1.Filter = "Text Files|*.txt";
             bool? saveFile = SaveFileDialog1.ShowDialog();
 
             if (saveFile == true)
